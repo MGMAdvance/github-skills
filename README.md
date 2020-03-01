@@ -12,6 +12,6 @@ Runs the project.
 
 ### `gulp`
 
-> Recommend: Install the [gulp-cli](npm install gulp-cli -g).
+> Recommend: Install the [gulp-cli](https://gulpjs.com/).
 
 Runs the Task Runner (Gulp),Runs the Task Runner (Gulp), execute the React and compile the Stylus (it's watched).
